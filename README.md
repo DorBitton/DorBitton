@@ -1,9 +1,24 @@
 <h1 align="center">Hi 👋, I'm Dor Bitton</h1>
-- 🌱 I’m currently learning **Devops - Projects**
-
 - 📫 How to reach me **dbitton01@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2>👨‍💻 Projects:</h2>
+
+
+
+
+- <b>Object oriented programing course: final assignment: </b>
+  - [Creating a shape painter (C++)](https://github.com/DorBitton/The-erdos-renyi-model)
+
+
+- <b>Algorithms course: final assignment: </b>
+  - [The-erdos-renyi-model (C++)](https://github.com/DorBitton/The-erdos-renyi-model)
+
+- <b>Programing courses: HIT First year: </b>
+  - [H.I.T-Home-Assignments (C)](https://github.com/DorBitton/H.I.T-Home-Assignments)
+
+
+
+<h3 align="left"> 🤳 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dor-bitton/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dor-bitton/" height="30" width="40" /></a>
 </p>

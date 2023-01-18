@@ -6,7 +6,7 @@
 
 
 - <b>Object oriented programing course: final assignment: </b>
-  - [Creating a shape painter (C++)](https://github.com/DorBitton/The-erdos-renyi-model)
+  - [Creating a shape painter (C++)](https://github.com/DorBitton/MFC-painter---OOP)
 
 
 - <b>Algorithms course: final assignment: </b>

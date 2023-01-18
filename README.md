@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dor Bitton</h1>
-Can contact me at dbitton01@gmail.com
+<h1 align="center">Hi There, I'm Dor 👋</h1>
 
 <h2>👨‍💻 Projects:</h2>
 

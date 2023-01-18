@@ -4,7 +4,7 @@
 
 
 - <b>Python Query API: Home-Assignment: </b>
-  - [Scripting---DogAPI (Python](https://github.com/DorBitton/Scripting---DogAPI)
+  - [Scripting---DogAPI (Python)](https://github.com/DorBitton/Scripting---DogAPI)
 
 - <b>Object oriented programing course: final assignment: </b>
   - [Creating a shape painter (C++)](https://github.com/DorBitton/MFC-painter---OOP)

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dor Bitton</h1>
-- 📫 How to reach me **dbitton01@gmail.com**
+- Can contact me on 📫 dbitton01@gmail.com
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -20,7 +20,7 @@
 
 <h3 align="left"> 🤳 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dor-bitton/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dor-bitton/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dor-bitton/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dor-bitton/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

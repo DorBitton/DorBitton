@@ -11,6 +11,10 @@
 - <b>888 DevOps-Home-Assignment: </b>
   - [888-DevOps-candidate-Home-Assignment (Python \ Ansible \ Docker)](https://github.com/DorBitton/888-DevOps-candidate-HS)
 
+- <b>Continuous Integration: </b>
+  - [Continuous Integration of Java application (Vagrant+Bash \ Jenkins \ Nexus \ SonarQube \ Slack)](https://github.com/DorBitton/CI-jenkins-nexus-sonarq)
+
+
 - <b>Python Query API: Home-Assignment: </b>
   - [Scripting---DogAPI (Python)](https://github.com/DorBitton/888-DevOps-candidate-HS/tree/main/Scripting-DogAPI)
 

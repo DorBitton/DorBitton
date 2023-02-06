@@ -19,7 +19,7 @@
   - [Scripting---DogAPI (Python)](https://github.com/DorBitton/888-DevOps-candidate-HS/tree/main/Scripting-DogAPI)
 
 - <b>Ansible windows IIS: Home-Assignment: </b>
-  - [Ansible automation (Ansible)](https://github.com/DorBitton/888-DevOps-candidate-HS/tree/main/Ansible-Automation)
+  - [Ansible automation (Ansible)](https://github.com/DorBitton/888-DevOps-candidate-HS/tree/main/Ansible-Windows-Automation)
 
 - <b>Docker: Set up Linux Server with nginx Home-Assignment: </b>
   - [Dockerfile (Docker)](https://github.com/DorBitton/888-DevOps-candidate-HS/tree/main/Docker-linuxS-nginx)

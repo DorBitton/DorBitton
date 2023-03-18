@@ -8,7 +8,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>888 DevOps-Home-Assignment: </b>
+- <b>888Holdings DevOps-Home-Assignment: </b>
   - [888-DevOps-candidate-Home-Assignment (Python \ Ansible \ Docker)](https://github.com/DorBitton/888-DevOps-candidate-HS)
 
 - <b>Continuous Integration: </b>

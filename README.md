@@ -15,14 +15,8 @@
   - [Continuous Integration of Java application (Vagrant+Bash \ Jenkins \ Nexus \ SonarQube \ Slack)](https://github.com/DorBitton/CI-jenkins-nexus-sonarq)
 
 
-- <b>Python Query API: Home-Assignment: </b>
-  - [Scripting---DogAPI (Python)](https://github.com/DorBitton/888-DevOps-candidate-HS/tree/main/Scripting-DogAPI)
 
-- <b>Ansible windows IIS: Home-Assignment: </b>
-  - [Ansible automation (Ansible)](https://github.com/DorBitton/888-DevOps-candidate-HS/tree/main/Ansible-Windows-Automation)
-
-- <b>Docker: Set up Linux Server with nginx Home-Assignment: </b>
-  - [Dockerfile (Docker)](https://github.com/DorBitton/888-DevOps-candidate-HS/tree/main/Docker-linuxS-nginx)
+<h2>👨‍💻 Academic Courses Projects:</h2>
 
 - <b>Object oriented programing course: final assignment: </b>
   - [Creating a shape painter (C++)](https://github.com/DorBitton/MFC-painter---OOP)
